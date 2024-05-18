@@ -1,0 +1,4 @@
+Analgesico Paracetamol 2023-09-31 14 700 1234567890
+Antiinflamatorio Diclofenaco 2023-09-31 0 300 123457
+Anticonceptivo Yasmin 2023-09-31 450 50 123459
+Antiácido Omeprazol 2023-09-31 26 1100 890123
